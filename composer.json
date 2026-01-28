@@ -1,7 +1,7 @@
 {
-    "name": "netgen/layouts-ezplatform-tags-query",
+    "name": "se7enxweb/layouts-ezplatform-tags-query",
     "description": "Netgen Layouts query based on Netgen Tags for eZ Platform",
-    "license": "GPL-2.0-only",
+    "license": "GPL-2.0-or-later",
     "type": "symfony-bundle",
     "authors": [
         {
@@ -10,8 +10,8 @@
         }
     ],
     "require": {
-        "netgen/layouts-ezplatform": "^1.3",
-        "netgen/tagsbundle": "^3.4 || ^4.0"
+        "se7enxweb/layouts-ezplatform": "^1.3",
+        "se7enxweb/tagsbundle": "^3.4 || ^4.0"
     },
     "require-dev": {
         "netgen/layouts-coding-standard": "^2.0",
